@@ -43,6 +43,10 @@ You can add Youtube Tutorial Links, Free Coursera/Udemy/Udacity course links, fr
 
 ### [Web Development - Others](https://github.com/Python-World/Py-Resources/tree/main/Web_Others)
 
+### [GUI Development](https://github.com/Python-World/Py-Resources/tree/main/GUI)
+
+### [Mobile App Development](https://github.com/Python-World/Py-Resources/tree/main/Mobile_App)
+
 ### [Game Development](https://github.com/Python-World/Py-Resources/tree/main/Game_development)
 
 ### [Data Science](https://github.com/Python-World/Py-Resources/tree/main/Data_Science)
