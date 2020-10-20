@@ -31,11 +31,27 @@ You can add Youtube Tutorial Links, Free Coursera/Udemy/Udacity course links, fr
 
 ### [Basic Python](https://github.com/Python-World/Py-Resources/tree/main/Basic_Python)
 
-### [Intermediate Python](https://github.com/Python-World/Py-Resources/tree/main/Intermediate)
+### [Competitive Programming](https://github.com/Python-World/Py-Resources/tree/main/Competitive_Programming)
+
+### [Cyber Security](https://github.com/Python-World/Py-Resources/tree/main/Cyber_Security)
+
+### [Data Science](https://github.com/Python-World/Py-Resources/tree/main/Data_Science)
 
 ### [Data Structures and Algorithms](https://github.com/Python-World/Py-Resources/tree/main/DSA)
 
-### [Competitive Programming](https://github.com/Python-World/Py-Resources/tree/main/Competitive_Programming)
+### [Deep Learning](https://github.com/Python-World/Py-Resources/tree/main/Deep_Learning)
+
+### [Game Development](https://github.com/Python-World/Py-Resources/tree/main/Game_development)
+
+### [GUI Development](https://github.com/Python-World/Py-Resources/tree/main/GUI)
+
+### [Intermediate Python](https://github.com/Python-World/Py-Resources/tree/main/Intermediate)
+
+### [Machine Learning](https://github.com/Python-World/Py-Resources/tree/main/Machine_Learning)
+
+### [Miscellaneous](https://github.com/Python-World/Py-Resources/tree/main/Miscellaneous)
+
+### [Mobile App Development](https://github.com/Python-World/Py-Resources/tree/main/Mobile_App)
 
 ### [Web Developement - Django](https://github.com/Python-World/Py-Resources/tree/main/Django)
 
@@ -43,20 +59,5 @@ You can add Youtube Tutorial Links, Free Coursera/Udemy/Udacity course links, fr
 
 ### [Web Development - Others](https://github.com/Python-World/Py-Resources/tree/main/Web_Others)
 
-### [GUI Development](https://github.com/Python-World/Py-Resources/tree/main/GUI)
-
-### [Mobile App Development](https://github.com/Python-World/Py-Resources/tree/main/Mobile_App)
-
-### [Game Development](https://github.com/Python-World/Py-Resources/tree/main/Game_development)
-
-### [Data Science](https://github.com/Python-World/Py-Resources/tree/main/Data_Science)
-
-### [Machine Learning](https://github.com/Python-World/Py-Resources/tree/main/Machine_Learning)
-
-### [Deep Learning](https://github.com/Python-World/Py-Resources/tree/main/Deep_Learning)
-
 ### [Web Scraping](https://github.com/Python-World/Py-Resources/tree/main/Web_Scraping)
 
-### [Cyber Security](https://github.com/Python-World/Py-Resources/tree/main/Cyber_Security)
-
-### [Miscellaneous](https://github.com/Python-World/Py-Resources/tree/main/Miscellaneous)
