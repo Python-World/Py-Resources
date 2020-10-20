@@ -29,30 +29,30 @@ You can add Youtube Tutorial Links, Free Coursera/Udemy/Udacity course links, fr
 
 ## Available Resources:-
 
-### [Basic Python]()
+### [Basic Python](https://github.com/Python-World/Py-Resources/tree/main/Basic_Python)
 
-### [Intermediate Python]()
+### [Intermediate Python](https://github.com/Python-World/Py-Resources/tree/main/Intermediate)
 
-### [Data Structures and Algorithms]()
+### [Data Structures and Algorithms](https://github.com/Python-World/Py-Resources/tree/main/DSA)
 
-### [Competitive Programming]()
+### [Competitive Programming](https://github.com/Python-World/Py-Resources/tree/main/Competitive_Programming)
 
-### [Web Developement - Django]()
+### [Web Developement - Django](https://github.com/Python-World/Py-Resources/tree/main/Django)
 
-### [Web Development - Flask]()
+### [Web Development - Flask](https://github.com/Python-World/Py-Resources/tree/main/Flask)
 
-### [Web Development - Others]()
+### [Web Development - Others](https://github.com/Python-World/Py-Resources/tree/main/Web_Others)
 
-### [Game Development]()
+### [Game Development](https://github.com/Python-World/Py-Resources/tree/main/Game_development)
 
-### [Data Science]()
+### [Data Science](https://github.com/Python-World/Py-Resources/tree/main/Data_Science)
 
-### [Machine Learning]()
+### [Machine Learning](https://github.com/Python-World/Py-Resources/tree/main/Machine_Learning)
 
-### [Deep Learning]()
+### [Deep Learning](https://github.com/Python-World/Py-Resources/tree/main/Deep_Learning)
 
-### [Web Scrapping]()
+### [Web Scraping](https://github.com/Python-World/Py-Resources/tree/main/Web_Scraping)
 
-### [Cyber Security]()
+### [Cyber Security](https://github.com/Python-World/Py-Resources/tree/main/Cyber_Security)
 
-### [Miscellaneous]()
+### [Miscellaneous](https://github.com/Python-World/Py-Resources/tree/main/Miscellaneous)
