@@ -1,11 +1,4 @@
 
-
-
-
-
-
-https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg
-
 | S. No. 	| Name                 	| Link                                                	| Type            |
 |:------:	|:--------------------:	|:---------------------------------------------------:	|:----------------|
 | 1.     	| Corey Schafer     	  | https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7  	| Youtube Video 	|
