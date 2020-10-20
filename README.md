@@ -13,7 +13,7 @@
 ![License](https://img.shields.io/github/license/Python-World/Py-Resources)
 
 
-A list of  free resources to make learning Python more easy.
+A list of  free resources to make learning Python easier.
 Lets make this the best collection of resources available on the internet for learning anything with Python.
 
 You can add Youtube Tutorial Links, Free Coursera/Udemy/Udacity course links, free ebooks(Please dont add any pdfs), Medium blog post links, etc
