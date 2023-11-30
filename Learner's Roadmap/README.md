@@ -1,0 +1,34 @@
+# Roadmap to Learn Python in The Best Way
+
+---
+- **Beginner Level**
+  - Basics of Python
+    - Syntax, Variables, Control Structures, Functions
+  - Data Structures & File Handling
+    - Lists, Tuples, Dictionaries, Sets, Reading/Writing Files
+  - Introduction to Libraries
+    - Basic Libraries: math, random, datetime, etc.
+---
+---
+- **Intermediate Level**
+  - Advanced Data Structures
+    - Stacks, Queues, Advanced Dictionaries
+  - Functional Programming
+    - Lambda Functions, map, filter, reduce
+  - Modules & Packages
+    - Creating Modules, Using 3rd Party Libraries
+---
+---
+- **Advanced Level**
+  - Advanced OOP Concepts
+    - Inheritance, Polymorphism, Design Patterns
+  - Concurrency & Parallelism
+    - Threading, Multiprocessing, Asynchronous Programming
+  - Web Development or Automation
+    - Flask, Django, Automation, Selenium, Scripting
+---
+---
+- **Specializations**
+  - Machine Learning & Data Science
+  - Contributing to Open Source Projects
+---
